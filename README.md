@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulkrrkn" alt="rahulkrrkn" /></a> </p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkrrkn&" alt="rahulkrrkn" /></p>
+
 <p align="left"> <a href="https://twitter.com/rahulkrrkn" target="blank"><img src="https://img.shields.io/twitter/follow/rahulkrrkn?logo=twitter&style=for-the-badge" alt="rahulkrrkn" /></a> </p>
 
 - 🔭 I’m currently working on [Quiz Corner](https://rahulkrrkn.com/Quiz_Corner/)
@@ -48,4 +50,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulkrrkn&show_icons=true&locale=en" alt="rahulkrrkn" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkrrkn&" alt="rahulkrrkn" /></p>
