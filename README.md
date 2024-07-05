@@ -7,7 +7,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkrrkn&" alt="rahulkrrkn" /></p>
 
-<p align="left"> <a href="https://twitter.com/rahulkrrkn" target="blank"><img src="https://img.shields.io/twitter/follow/rahulkrrkn?logo=twitter&style=for-the-badge" alt="rahulkrrkn" /></a> </p>
 
 - 🔭 I’m currently working on [Quiz Corner](https://rahulkrrkn.com/Quiz_Corner/)
 
