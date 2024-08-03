@@ -2,4 +2,6 @@ User-agent: *
 Allow: /Foodie_Express
 Allow: /Virtual_World
 
+
 Disallow: /Quiz_Corner
+Disallow: /LibSheet
