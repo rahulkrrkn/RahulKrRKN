@@ -10,17 +10,9 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkrrkn&" alt="rahulkrrkn" /></p>
 
 
-- 🔭 I’m currently working on [Quiz Corner](https://rahulkrrkn.com/Quiz_Corner/)
 
 - 🌱 I’m currently learning **React.js and Node.js**
 
-- 2️⃣ My Second Project [Foodie Express](https://rahulkrrkn.com/Foodie_Express/)
-
-- 1️⃣ My First Project [Virtual World](https://rahulkrrkn.com/Virtual_World/)
-
-- 👨‍💻 All of my projects are available at [https://rahulkrrkn.com/](https://rahulkrrkn.com/)
-
-- 📝 I regularly write articles on [https://rahulkrrkn.com/Blog](https://rahulkrrkn.com/Blog)
 
 - 💬 Ask me about **C || Python || JavaScript || CSS || HTML5 || GitHub || Figma || PHP || MySQL**
 
